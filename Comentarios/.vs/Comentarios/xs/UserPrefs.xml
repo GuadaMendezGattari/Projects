@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C6299878-E55B-4F90-88AE-834C799664A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Comentarios PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Comentarios/Controllers/ComentarioController.cs">
+    <Files>
+      <File FileName="Comentarios/Controllers/ComentarioController.cs" Line="95" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Comentarios" expanded="True">
+            <Node name="Comentarios" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
